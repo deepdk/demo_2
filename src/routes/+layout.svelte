@@ -11,6 +11,7 @@
             <a class="hover:text-gray-300" href="/">Home</a>
             <a class="hover:text-gray-300" href="/about">About</a>
             <a class="hover:text-gray-300" href="/projects">Projects</a>
+            <a class="hover:text-gray-300" href="https://deepdk.quarto.pub/deepalis-blog/">Blog</a>
         </div>
     </div>
     <div class="container mx-auto flex justify-end items-center gap-x-8 -mt-6">
